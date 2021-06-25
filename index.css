@@ -1,0 +1,21 @@
+/* img{
+    width:450px;
+    height:120px;
+    background-color: yellowgreen;
+} */
+h1{
+    font-size: 120px;
+   color: rgb(224, 53, 22);
+}
+h5{
+    background-color: rgb(161, 154, 180);
+}
+body{
+background-color: yellowgreen;
+    
+}
+form{
+    float:left;
+    display: flex;
+    flex: right;
+}
